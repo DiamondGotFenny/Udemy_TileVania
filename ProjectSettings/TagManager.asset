@@ -62,3 +62,6 @@ TagManager:
   - name: Interactable
     uniqueID: 492222811
     locked: 0
+  - name: Control
+    uniqueID: 1158320325
+    locked: 0
