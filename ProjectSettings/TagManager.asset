@@ -13,13 +13,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Ladder
+  - Player
+  - BackGround
+  - Enemy
+  - Hazards
+  - Interactable
   - 
   - 
   - 
@@ -44,9 +44,21 @@ TagManager:
   - name: BackgroundTilemap
     uniqueID: 4119092093
     locked: 0
+  - name: LadderTilemap
+    uniqueID: 3258849323
+    locked: 0
+  - name: Enemy
+    uniqueID: 49659807
+    locked: 0
+  - name: Hazards
+    uniqueID: 2060681895
+    locked: 0
   - name: Player
     uniqueID: 677560419
     locked: 0
   - name: ForegroundTilemap
     uniqueID: 2467434481
+    locked: 0
+  - name: Interactable
+    uniqueID: 492222811
     locked: 0
